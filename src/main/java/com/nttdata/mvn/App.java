@@ -99,7 +99,7 @@ public class App {
 		// Contenido de la hoja de excel
 
 		String[][] document = new String[][] { { "Los Girasoles Ciegos", "Ficcion", "Alberto Mendez" },
-				{ "Los Pilares de la Tierra", "Novela", "Ken Follett" }, { "Donde nadie te encuentre", "Misterio", "Alicia Gimenez Bartlett" } };
+				{ "Los Pilares de la Tierra", "Novela", "Ken Follett" }, { "Donde nadie te encuentre", "Ficcion", "Alicia Gimenez Bartlett" } };
 
 		// Poner en negrita la cabecera
 
